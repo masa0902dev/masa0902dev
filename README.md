@@ -1,18 +1,19 @@
 <section>
   <h1>こんにちは、私はMiwa Masahiroです👋</h1>
   <p>
-    Web Engineer (mainly Back-End)<br>
-    21 years old, College Student in Japan
+    <b>‼️I'm Looking for a job, HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br><br>
   </p>
   <p>
-    <b>‼️I'm Looking for a job, HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br>
+    Who are You?....<br>
+    ・Web Engineer (mainly Back-End)<br>
+    ・21 years old, College Student in Japan<br>
   </p>
   <p>
-    Now...<br>
+    What Doing Now?....<br>
     ・💼 Working in the project of Nagoya City and Cabinet Secretariat.<br>
     ・🏠 Tackling with a job order from a professor.<br>
     ・🔥 Developing my web app, <a href="https://github.com/masa0902dev/github-contribution-graphs">Github-Contribution-Graphs</a><br>
-    ・📚 Getting ready for Internship in Ateam Inc.
+    ・📚 Getting ready for Internship in Ateam Inc.<br>
   </p>
 </section>
 
