@@ -5,8 +5,10 @@
     21 years old, College Student in Japan
   </p>
   <p>
+    <b>‼️I'm Looking for a job, HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br>
+  </p>
+  <p>
     Now...<br>
-    ・<b>I'm Looking for a job, HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br>
     ・💼 Working in the project of Nagoya City and Cabinet Secretariat.<br>
     ・🏠 Tackling with a job order from a professor.<br>
     ・🔥 Developing my web app, <a href="https://github.com/masa0902dev/github-contribution-graphs">Github-Contribution-Graphs</a><br>
