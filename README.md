@@ -7,6 +7,7 @@
     Who are You?....<br>
     ・Web Engineer (mainly Back-End)<br>
     ・21 years old, College Student in Japan<br>
+    ・department of Physical Engineering, NIT<br>
   </p>
   <p>
     What Doing Now?....<br>
