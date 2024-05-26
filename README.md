@@ -5,7 +5,7 @@
   </p>
   <p>
     Who are You?....<br>
-    ・Web Engineer (mainly Back-End)<br>
+    ・Web Engineer (mainly Back-End & Front-End)<br>
     ・21 years old, College Student in Japan<br>
 <!--     ・department of Physical Engineering, NIT<br> -->
   </p>
@@ -25,7 +25,7 @@
   
   <div align="left">
     <p>
-      Lang ▶️ JS, PHP, Pythoh, Golang<br>
+      Lang ▶️ JS, Python, PHP, Golang<br>
     </p>
     <a href="https://skillicons.dev">
       <img alt="most used skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=js,nodejs,npm,php,laravel,py,anaconda,go,linux,mysql,graphql,postman,git,github,md,vim,vscode,html,css,sass,bash,heroku,apple,notion">
