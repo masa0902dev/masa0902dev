@@ -44,7 +44,7 @@
   <h1>Stats</h1>
   
   <p align="left"> 
-    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=onedark&count_private=true&size_weight=0.5&count_weight=1&hide=css,blade&title_color=FFD100&text_color=3AC0FF&border_radius=6">
+    <img alt="Top Langs" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=onedark&count_private=true&size_weight=0.5&count_weight=0.5&hide=css,blade&title_color=FFD100&text_color=3AC0FF&border_radius=6">
     <!-- size_weight:byte count, count_weight:レポジトリが持つ割合 -->
     <!-- css:scssがあるので, blade:phpがあるので -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
