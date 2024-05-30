@@ -11,7 +11,7 @@
   </p>
   <p>
     What Doing Now?....<br>
-    ・💼 Working in the project of Nagoya City and Cabinet Secretariat.<br>
+    ・💼 Working in the projects of Nagoya City and Cabinet Secretariat.<br>
     ・🏠 Tackling with a job order from a client.<br>
 <!--     ・🔥 Developing my web app, <a href="https://github.com/masa0902dev/github-contribution-graphs">Github-Contribution-Graphs</a><br> -->
     ・📚 Getting ready for Internship in Ateam Inc. and Freee Inc.<br>
