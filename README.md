@@ -24,17 +24,24 @@
   <h1>Skills</h1>
   
   <div align="left">
-    <p>
-      Lang ▶️ JS, Python, PHP, Golang<br>
-    </p>
+    <div>
+      <h3>Lang & Framework & DB</h3>
+      ▶️ TypeScript, React, NodeJS, Python,<br>
+      ▶️ PHP, Laravel, Golang, JS, HTML, SCSS<br>
+      ▶️ MySQL, SQL<br>
+    </div>
+    <div>
+      <h3>Others</h3>
+      ▶️ Github Actions, Github, Git, Docker, Linux, Vim, ...etc<br>
+    </div>
+    <br>
     <a href="https://skillicons.dev">
-      <img alt="most used skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=js,nodejs,npm,php,laravel,py,anaconda,go,linux,mysql,graphql,postman,git,github,md,vim,vscode,html,css,sass,bash,heroku,apple,notion">
+      <img alt="main techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,nodejs,py,php,laravel,go,mysql,githubactions,github,git,linux,bash,docker,html,css,sass">
     </a>
-  </div>
-  
-  <div align="left">
-    <p><br>---leaning now---</p>
-    <a href="https://skillicons.dev"><img alt="other skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,aws,docker,githubactions,jest"></a>
+    <br><br>
+    <a href="https://skillicons.dev">
+      <img alt="other techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=npm,graphql,postman,md,vim,vscode,heroku,apple,notion">
+    </a>
   </div>
 </section>
 
