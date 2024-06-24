@@ -24,17 +24,6 @@
   <h1>Skills</h1>
   
   <div align="left">
-    <div>
-      <h3>Lang & Framework & DB</h3>
-      ▶️ TypeScript, React, NodeJS, Python,<br>
-      ▶️ PHP, Laravel, Golang, JS, HTML, SCSS<br>
-      ▶️ MySQL, SQL<br>
-    </div>
-    <div>
-      <h3>Others</h3>
-      ▶️ Github Actions, Github, Git, Docker, Linux, Vim, ...etc<br>
-    </div>
-    <br>
     <a href="https://skillicons.dev">
       <img alt="main techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,nodejs,py,php,laravel,go,mysql,githubactions,github,git,linux,bash,docker,html,css,sass">
     </a>
@@ -42,6 +31,19 @@
     <a href="https://skillicons.dev">
       <img alt="other techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=npm,graphql,postman,md,vim,vscode,heroku,apple,notion">
     </a>
+    <div>
+      <h3>Lang & Framework</h3>
+      ▶️ TypeScript, React, NodeJS, Python,<br>
+      ▶️ PHP, Laravel, Golang, JS, HTML, SCSS<br>
+    </div>
+    <div>
+      <h3>DB</h3>
+      ▶️ MySQL, SQL<br>
+    <div>
+      <h3>Others</h3>
+      ▶️ Github Actions, Github, Git, Docker, Linux, Vim, ...etc<br>
+    </div>
+    <br>
   </div>
 </section>
 
