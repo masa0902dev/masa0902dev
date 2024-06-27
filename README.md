@@ -25,7 +25,7 @@
   
   <div align="left">
     <a href="https://skillicons.dev">
-      <img alt="main techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,nodejs,py,php,laravel,go,mysql,githubactions,github,git,linux,bash,docker,html,css,sass">
+      <img alt="main techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,nodejs,js,py,php,laravel,go,mysql,githubactions,github,git,linux,bash,docker,html,css,sass">
     </a>
     <br><br>
     <a href="https://skillicons.dev">
