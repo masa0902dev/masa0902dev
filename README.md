@@ -1,7 +1,7 @@
 <section>
   <h1>こんにちは、私はMiwa Masahiroです👋</h1>
   <p>
-    <b>‼️I'm Looking for a job, HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br><br>
+    <b>‼️HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br><br>
   </p>
   <p>
     Who are You?....<br>
