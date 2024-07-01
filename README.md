@@ -34,7 +34,7 @@
     <div>
       <h3>Lang & Framework</h3>
       ▶️ TypeScript, React, NextJS, NodeJS, Python,<br>
-      ▶️ PHP, Laravel, Golang, JS, HTML, SCSS<br>
+      ▶️ PHP, Laravel, Golang, JS, HTML, Sass(SCSS)<br>
     </div>
     <div>
       <h3>DB</h3>
