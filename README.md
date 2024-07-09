@@ -44,7 +44,7 @@
   <h1>⭐️What Doing Now?</h1>
   <ul>
     <li>💼 Working in the projects of Nagoya City and Cabinet Secretariat</li>
-    <li>🏠 Tackling with a job order from a client</li>
+    <li>🏠 Tackling with a job order from a professor</li>
     <li>📚 Getting ready for Internship in Ateam Inc. and Freee Inc.</li>
   </ul>
   <br>
