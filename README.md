@@ -1,61 +1,64 @@
-<section>
-  <h1>こんにちは、Miwa Masahiroです👋</h1>
-  <p>
-    <b>‼️HIRE ME‼️ ▶️ contact: masa0902dev@gmail.com</b><br><br>
-  </p>
-  <p>
-    Who are You?....<br>
-    ・Web Engineer (mainly Back-End & Front-End)<br>
-    ・21 years old, College Student in Japan<br>
-<!--     ・department of Physical Engineering, NIT<br> -->
-  </p>
-  <p>
-    What Doing Now?....<br>
-    ・💼 Working in the projects of Nagoya City and Cabinet Secretariat.<br>
-    ・🏠 Tackling with a job order from a client.<br>
-<!--     ・🔥 Developing my web app, <a href="https://github.com/masa0902dev/github-contribution-graphs">Github-Contribution-Graphs</a><br> -->
-    ・📚 Getting ready for Internship in Ateam Inc. and Freee Inc.<br>
-  </p>
-</section>
-
+<h1>👋こんにちは、Miwa Masahiroです</h1>
+<ul>
+  <li>College Student</li>
+  <li>Web Engineer mainly BackEnd & FrontEnd</li>
+  <li>Contact → masa0902dev[at]gmail.com</li>
+</ul>
+<br>
 
 
 <section>
-  <h1>Skills</h1>
-  
-  <div align="left">
+  <h1>⚡️Skills</h1>
+
+  <div>
+    <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="main techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=ts,react,next,nodejs,js,py,php,laravel,go,mysql,githubactions,github,git,linux,bash,docker,html,css,sass">
-    </a>
-    <br><br>
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=go,py,nodejs,ts,laravel,php,mysql">
+    </a>  
+    <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="other techs" src="https://skillicons.dev/icons?theme=light&perline=10&i=npm,graphql,postman,md,vim,vscode,heroku,apple,notion">
+      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,ts,js,html,css,sass">
     </a>
-    <div>
-      <h3>Lang & Framework</h3>
-      ▶️ TypeScript, React, NextJS, NodeJS, Python,<br>
-      ▶️ PHP, Laravel, Golang, JS, HTML, Sass(SCSS)<br>
-    </div>
-    <div>
-      <h3>DB</h3>
-      ▶️ MySQL, SQL<br>
-    <div>
-      <h3>Others</h3>
-      ▶️ Github Actions, Github, Git, Docker, Linux, Vim, ...etc<br>
-    </div>
-    <br>
+    <h3>others</h3>
+    <a href="https://skillicons.dev">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=githubactions,github,git,docker,graphql,postman,linux,vercel,md,vscode,notion">
+    </a>
   </div>
+
+  <br>
+  
+  <div>
+      <p>
+        BackEnd → Golang, Python, NodeJS, TS, Laravel, PHP<br>
+        DB → MySQL, SQL<br>
+        FrontEnd → React, TS, JS, HTML, CSS, Sass(SCSS)<br>
+        Others → Github Actions, Github, Git, Docker, GraphQL, Postman, Linux...<br>
+      </p>
+  </div>
+  <br>
+</section>
+
+
+
+<section>  
+  <h1>⭐️What Doing Now?</h1>
+  <ul>
+    <li>💼 Working in the projects of Nagoya City and Cabinet Secretariat</li>
+    <li>🏠 Tackling with a job order from a client</li>
+    <li>📚 Getting ready for Internship in Ateam Inc. and Freee Inc.</li>
+  </ul>
+  <br>
 </section>
 
 
 
 <section>
-  <h1>Stats</h1>
+  <h1>🔥Stats</h1>
   
   <p align="left"> 
     <img alt="Top Langs" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=onedark&count_private=true&size_weight=0.3&count_weight=0.7&hide=css,blade&title_color=FFD100&text_color=3AC0FF&border_radius=6">
     <!-- size_weight:byte count, count_weight:レポジトリが持つ割合 -->
-    <!-- css:scssがあるので, blade:phpがあるので -->
+    <!-- 除外→css:scssある, blade:phpある -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
     <img alt="github stats" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=onedark&show_icons=true&count_private=true&title_color=FFD100&text_color=00AEFF&icon_color=FFD100&border_radius=6">
     <img alt="github streak" src="https://streak-stats.demolab.com/?user=masa0902dev&theme=highcontrast&card_height=160&starting_year=2023">
