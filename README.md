@@ -30,7 +30,7 @@
   <div>
       <p>
         BackEnd → Golang, Python, NodeJS, TS, Laravel, PHP<br>
-        DB → MySQL, SQL<br>
+        DB → MySQL<br>
         FrontEnd → React, TS, JS, HTML, CSS, Sass(SCSS)<br>
         Others → Github Actions, Github, Git, GraphQL, Postman, Linux...<br>
       </p>
