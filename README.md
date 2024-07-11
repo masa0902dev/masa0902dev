@@ -21,7 +21,7 @@
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=githubactions,github,git,docker,graphql,postman,linux,vercel,md,vscode,notion">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
     </a>
   </div>
 
@@ -32,7 +32,7 @@
         BackEnd → Golang, Python, NodeJS, TS, Laravel, PHP<br>
         DB → MySQL, SQL<br>
         FrontEnd → React, TS, JS, HTML, CSS, Sass(SCSS)<br>
-        Others → Github Actions, Github, Git, Docker, GraphQL, Postman, Linux...<br>
+        Others → Github Actions, Github, Git, GraphQL, Postman, Linux...<br>
       </p>
   </div>
   <br>
