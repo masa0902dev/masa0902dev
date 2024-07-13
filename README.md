@@ -17,7 +17,7 @@
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,ts,js,html,css,sass">
+      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,ts,sass,js,html,css">
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@
       <p>
         BackEnd → Golang, Python, NodeJS, TS, Laravel, PHP<br>
         DB → MySQL<br>
-        FrontEnd → React, TS, JS, HTML, CSS, Sass(SCSS)<br>
+        FrontEnd → React, TS, Sass(SCSS), JS, HTML, CSS<br>
         Others → Github Actions, Github, Git, GraphQL, Postman, Linux...<br>
       </p>
   </div>
