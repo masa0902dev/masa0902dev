@@ -61,7 +61,7 @@
     <!-- 除外→css:scssある, blade:phpある -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
     <img alt="github stats" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=onedark&show_icons=true&count_private=true&title_color=FFD100&text_color=00AEFF&icon_color=FFD100&border_radius=6">
-    <img alt="github streak" src="https://streak-stats.demolab.com/?user=masa0902dev&theme=highcontrast&card_height=160&starting_year=2023">
+    <img alt="github streak" src="https://streak-stats.demolab.com/?user=masa0902dev&theme=highcontrast&card_height=160&starting_year=2023&date_format=[Y.]n.j">
   </p>
 
   <!-- 05/12/2024にWakaTimeをcursorに入れたので、十分な作業時間が記録されたら表示 -->
