@@ -45,7 +45,8 @@
   <ul>
     <li>💼 Working in the projects of Nagoya City and Cabinet Secretariat</li>
     <li>🏠 Tackling with a job order from a professor</li>
-    <li>📚 Getting ready for Internship in Ateam Inc. and Freee Inc.</li>
+    <li>🏢 Doing internship in Ateam Inc.</li>
+    <li>📚 Getting ready for Internship in Freee Inc.</li>
   </ul>
   <br>
 </section>
