@@ -1,4 +1,4 @@
-<h1>👋こんにちは、Miwa Masahiroです</h1>
+<h1>👋こんにちは、私はMiwa Masahiroです</h1>
 <ul>
   <li>College Student</li>
   <li>Web Engineer mainly BackEnd & FrontEnd</li>
