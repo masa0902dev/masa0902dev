@@ -13,15 +13,15 @@
   <div>
     <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=rails,ruby,ts,nodejs,py,go,laravel,php,mysql">
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=rails,ruby,ts,nodejs,py,go,laravel,php,mysql">
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,ts,sass,js,html,css">
+      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,ts,sass,js,html,css">
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=elasticsearch,githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
     </a>
   </div>
 
