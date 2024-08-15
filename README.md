@@ -13,7 +13,7 @@
   <div>
     <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=go,py,nodejs,ts,laravel,php,mysql">
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=rails,ruby,ts,nodejs,py,go,laravel,php,mysql">
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=7&i=elasticsearch,githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
     </a>
   </div>
 
@@ -29,10 +29,10 @@
   
   <div>
       <p>
-        BackEnd → Golang, Python, NodeJS, TS, Laravel, PHP<br>
+        BackEnd → Rails, Ruby, TS, NodeJS, Python, Golang, Laravel, PHP<br>
         DB → MySQL<br>
         FrontEnd → React, TS, Sass(SCSS), JS, HTML, CSS<br>
-        Others → Github Actions, Github, Git, GraphQL, Postman, Linux...<br>
+        Others → ElasticSerach, Github Actions, graphql, vercel, ...<br>
       </p>
   </div>
   <br>
