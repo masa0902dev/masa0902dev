@@ -2,7 +2,7 @@
 <ul>
   <li>College Student</li>
   <li>Web Engineer mainly BackEnd & FrontEnd</li>
-  <li>Contact → masa0902dev[at]gmail.com</li>
+  <li>Contact → masa0902dev@gmail.com</li>
 </ul>
 <br>
 
@@ -13,15 +13,15 @@
   <div>
     <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=rails,ruby,ts,nodejs,py,go,laravel,php,mysql">
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=rails,ruby,ts,nodejs,py,laravel,php,mysql">
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,ts,sass,js,html,css">
+      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,ts,html,sass,css">
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,linux,vercel,md,vscode,notion">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,vercel,vscode,notion">
     </a>
   </div>
 
@@ -29,10 +29,9 @@
   
   <div>
       <p>
-        BackEnd → Rails, Ruby, TS, NodeJS, Python, Golang, Laravel, PHP<br>
-        DB → MySQL<br>
-        FrontEnd → React, TS, Sass(SCSS), JS, HTML, CSS<br>
-        Others → ElasticSerach, Github Actions, graphql, vercel, ...<br>
+        BackEnd → Rails, Ruby, NodeJS, TS, Python, Laravel, PHP, MySQL<br>
+        FrontEnd → React, TS, HTML, Sass(SCSS), CSS<br>
+        Others → ElasticSerach, Github Actions, GitHub, Git, Vercel, VScode, Notion<br>
       </p>
   </div>
   <br>
