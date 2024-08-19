@@ -15,7 +15,7 @@
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,vercel,vscode,notion">
+      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,vercel,vscode,notion">
     </a>
   </div>
 
@@ -25,7 +25,7 @@
       <p>
         BackEnd → Rails, Ruby, NodeJS, TS, Python, Laravel, PHP, MySQL<br>
         FrontEnd → React, ReactAdmin, TS, HTML, CSS, Sass(SCSS)<br>
-        Others → ElasticSerach, Github Actions, GitHub, Git, Vercel, VScode, Notion<br>
+        Others → ElasticSerach, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, Notion<br>
       </p>
   </div>
   <br>
