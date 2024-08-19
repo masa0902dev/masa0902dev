@@ -1,10 +1,4 @@
-<h1>👋こんにちは、私はMiwa Masahiroです</h1>
-<ul>
-  <li>College Student</li>
-  <li>Web Engineer mainly BackEnd & FrontEnd</li>
-  <li>Contact → masa0902dev@gmail.com</li>
-</ul>
-<br>
+<h2>👋こんにちは、私はMiwa Masahiroです</h2>
 
 
 <section>
@@ -38,14 +32,20 @@
 </section>
 
 
-
 <section>  
   <h1>⭐️What Doing Now?</h1>
   <ul>
     <li>💼 Working in the projects of Nagoya City and Cabinet Secretariat</li>
-    <li>🏠 Tackling with a job order from a professor</li>
+    <li>🏠 Tackling with a commissioned development</li>
     <li>🏢 Doing internship in Ateam Inc.</li>
     <li>📚 Getting ready for Internship in Freee Inc.</li>
+  </ul>
+  <br>
+
+  <ul>
+    <li>College Student</li>
+    <li>Web Engineer mainly BackEnd & FrontEnd</li>
+    <li>Contact → masa0902dev@gmail.com</li>
   </ul>
   <br>
 </section>
