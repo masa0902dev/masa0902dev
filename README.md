@@ -11,7 +11,7 @@
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,ts,html,css,sass">
+      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,mui,ts,html,css,sass">
     </a>
     <h3>others</h3>
     <a href="https://skillicons.dev">
