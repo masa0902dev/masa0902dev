@@ -7,7 +7,7 @@
   <div>
     <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=rails,ruby,ts,nodejs,py,laravel,php,mysql">
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,py,ts,nodejs,laravel,mysql,postgresql">
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
@@ -23,8 +23,8 @@
   
   <div>
       <p>
-        BackEnd → Rails, Ruby, NodeJS, TS, Python, Laravel, PHP, MySQL<br>
-        FrontEnd → React, ReactAdmin, TS, HTML, CSS, Sass(SCSS)<br>
+        BackEnd → Golang, Python, Typescript, NodeJS, Laravel, MySQL, PostgreSQL<br>
+        FrontEnd → React, ReactAdmin, Typescript, HTML, CSS, Sass(SCSS)<br>
         Others → ElasticSerach, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, Notion<br>
       </p>
   </div>
