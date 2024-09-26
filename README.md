@@ -1,5 +1,9 @@
 <h2>👋こんにちは、私はMiwa Masahiroです</h2>
 
+<section>
+  <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">X (Twitter)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
+</section>
+
 
 <section>
   <h1>⚡️Skills</h1>
