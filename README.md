@@ -29,7 +29,7 @@
       <p>
         BackEnd → Golang, Python, Typescript, NodeJS, Laravel, MySQL, PostgreSQL<br>
         FrontEnd → React, ReactAdmin, Mui, Typescript, HTML, CSS, Sass(SCSS)<br>
-        Others → ElasticSerach, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, Notion<br>
+        Others → OpenSearch, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, Notion<br>
       </p>
   </div>
   <br>
