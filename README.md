@@ -36,24 +36,6 @@
 </section>
 
 
-<section>  
-  <h1>⭐️What Doing Now?</h1>
-  <ul>
-    <li>💼 Working in the projects of Nagoya City and Cabinet Secretariat</li>
-    <li>🏠 Tackling with a commissioned development</li>
-    <li>🏢 Doing internship in Ateam Inc.</li>
-    <li>📚 Getting ready for Internship in Freee Inc.</li>
-  </ul>
-  <br>
-
-  <ul>
-    <li>College Student</li>
-    <li>Web Engineer mainly BackEnd & FrontEnd</li>
-    <li>Contact → masa0902dev@gmail.com</li>
-  </ul>
-  <br>
-</section>
-
 
 
 <section>
@@ -72,4 +54,15 @@
   <!--<a href="https://github.com/masa0902dev/github-readme-stats">
     <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact" />
   </a>-->
+</section>
+
+
+
+<section>  
+  <ul>
+    <li>college student in Japan</li>
+    <li>software engineer, web backend (+frontend)</li>
+    <li>Contact → masa0902dev@gmail.com</li>
+  </ul>
+  <br>
 </section>
