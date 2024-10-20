@@ -11,7 +11,7 @@
   <div>
     <h3>BackEnd</h3>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,go,laravel,mysql,postgresql">
+      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,laravel,go,mysql,postgresql">
     </a>  
     <h3>FrontEnd</h3>
     <a href="https://skillicons.dev">
