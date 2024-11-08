@@ -9,15 +9,15 @@
   <h1>⚡️Skills</h1>
 
   <div>
-    <h3>BackEnd</h3>
+    <p>BackEnd</p>
     <a href="https://skillicons.dev">
       <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,laravel,go,mysql,postgresql">
     </a>  
-    <h3>FrontEnd</h3>
+    <p>FrontEnd</p>
     <a href="https://skillicons.dev">
       <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,mui,ts,html,css,sass">
     </a>
-    <h3>others</h3>
+    <p>Others</p>
     <a href="https://skillicons.dev">
       <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,vercel,vscode,notion">
     </a>
