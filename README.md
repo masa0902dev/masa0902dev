@@ -47,19 +47,27 @@
     <!-- 除外→css:scssある, blade:phpある -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
     <img alt="github stats" height="165px" src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=onedark&show_icons=true&count_private=true&title_color=FFD100&text_color=00AEFF&icon_color=FFD100&border_radius=6" />
-    <img height='165px' alt="github streak" src="https://streak-stats.demolab.com/?user=masa0902dev&theme=highcontrast&card_height=160&starting_year=2023&date_format=[Y.]n.j" />
-    <!-- codetests -->
+<!--     DEBUGING NOW -->
+<!--     <img height='165px' alt="github streak" src="https://streak-stats.demolab.com/?user=masa0902dev&theme=highcontrast&card_height=165&starting_year=2023&date_format=[Y.]n.j" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=masa0902dev&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+    </a> -->
+    <!-- DSAs -->
 <!--     <img width='330' alt="Project Euler profile" src="https://projecteuler.net/profile/masa0902dev.png" />
     <div>
       <img height='384' alt="Leetcode profile" src="https://leetcard.jacoblin.cool/masa0902dev?theme=unicorn&font=NTR&ext=activity" />
       <img height='384' alt="Atcoder profile" src="https://atcoder-readme-stats.vercel.app/stats/masa0902dev?show_history=4" />
     </div> -->
   </div>
-
-  <!-- 05/12/2024にWakaTimeをcursorに入れたので、十分な作業時間が記録されたら表示 -->
-  <!--<a href="https://github.com/masa0902dev/github-readme-stats">
-    <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact" />
-  </a>-->
+<!--   <div>
+    <a href="https://wakatime.com/@018ecce8-e566-41cc-b7aa-863eab64d714">
+      <img src="https://wakatime.com/badge/user/018ecce8-e566-41cc-b7aa-863eab64d714.svg" alt="Total time coded since Apr 11 2024" />
+    </a>
+    (since Apr 11 2024)<br>
+    <a href="https://wakatime.com/@masa0902dev">
+      <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact" />
+    </a>
+  </div> -->
 </section>
 
 
