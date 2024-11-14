@@ -1,4 +1,4 @@
-<h2>👋こんにちは、私はMiwa Masahiroです</h2>
+<h2>👋Hello, I'm Masahiro Miwa</h2>
 
 <section>
   <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">X (Twitter)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
@@ -11,26 +11,16 @@
   <div>
     <p>BackEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,laravel,go,mysql,postgresql">
+      <img alt="backend-techs are Python, Typescript, NodeJS, Golang, Laravel, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,go,laravel,mysql,postgresql">
     </a>  
     <p>FrontEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,mui,ts,html,css,sass">
+      <img alt="frontend-techs are React, ReactAdmin, Mui, Typescript, HTML, CSS, and Sass(SCSS)" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,mui,ts,html,css,sass">
     </a>
     <p>Others</p>
     <a href="https://skillicons.dev">
-      <img alt="other-techs" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,vercel,vscode,notion">
+      <img alt="other-techs are OpenSearch, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, and Notion" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,vercel,vscode,notion">
     </a>
-  </div>
-
-  <br>
-  
-  <div>
-      <p>
-        BackEnd → Python, Typescript, NodeJS, Golang, Laravel, MySQL, PostgreSQL<br>
-        FrontEnd → React, ReactAdmin, Mui, Typescript, HTML, CSS, Sass(SCSS)<br>
-        Others → OpenSearch, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, Notion<br>
-      </p>
   </div>
   <br>
 </section>
