@@ -45,7 +45,7 @@
     <img
       alt="Top Langs"
       height="170px"
-      src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true&size_weight=0.5&count_weight=0.5&hide=css,blade&title_color=FFD100&text_color=73D0FF&border_radius=6&exclude_repo=ec-costco-resale,a-team-dev,ulucus,laravel-vercel-mysql-test"
+      src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true&size_weight=0.5&count_weight=0.5&title_color=FFD100&text_color=73D0FF&border_radius=6&exclude_repo=ec-costco-resale,a-team-dev,ulucus,laravel-vercel-mysql-test&hide=blade,php,css,html"
     />
     <img
       alt="github stats"
