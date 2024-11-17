@@ -11,7 +11,7 @@
   <div>
     <p>BackEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs are Python, Typescript, NodeJS, Golang, Laravel, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=py,ts,nodejs,go,laravel,mysql,postgresql">
+      <img alt="backend-techs are Golang, Python, Typescript, NodeJS, Laravel, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,py,ts,nodejs,laravel,mysql,postgresql">
     </a>  
     <p>FrontEnd</p>
     <a href="https://skillicons.dev">
