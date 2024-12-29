@@ -1,7 +1,12 @@
-<h2>👋Hello, I'm Masahiro Miwa</h2>
+<h2>👋こんにちは、私はmasaです</h2>
 
 <section>
-  <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Tech Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">X (Twitter)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
+  <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Tech Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">Twitter(X)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
+  <br><br>
+  <section>
+    <span>SWE (Web BackEnd + FrontEnd), college student in Japan</span>
+    <div>contact: <code>masa0902dev@gmail.com</code></div>
+  </section>
 </section>
 
 
@@ -11,11 +16,11 @@
   <div>
     <p>BackEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs are Golang, Python, Typescript, NodeJS, Laravel, MySQL, and PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,py,ts,nodejs,laravel,mysql,postgresql">
+      <img alt="backend-techs are Golang, Typescript, NodeJS, Python, Laravel, MySQL PostgreSQL, and Firebase" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,ts,nodejs,py,laravel,mysql,postgresql,firebase">
     </a>  
     <p>FrontEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="frontend-techs are React, ReactAdmin, Mui, Typescript, HTML, CSS, and Sass(SCSS)" src="https://skillicons.dev/icons?theme=light&perline=9&i=react,mui,ts,html,css,sass">
+      <img alt="frontend-techs are NextJS, React, ReactAdmin, Mui, Typescript, HTML, CSS, and Sass(SCSS)" src="https://skillicons.dev/icons?theme=light&perline=9&i=next,react,mui,ts,html,css,sass">
     </a>
     <p>Others</p>
     <a href="https://skillicons.dev">
@@ -35,7 +40,7 @@
     <img
       alt="Top Langs"
       height="170px"
-      src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true&size_weight=0.5&count_weight=0.5&title_color=FFD100&text_color=73D0FF&border_radius=6&exclude_repo=ec-costco-resale,a-team-dev,ulucus,laravel-vercel-mysql-test&hide=blade,php,css,html"
+      src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true&size_weight=0.6&count_weight=0.4&title_color=FFD100&text_color=73D0FF&border_radius=6&exclude_repo=ec-costco-resale,a-team-dev,ulucus,laravel-vercel-mysql-test&hide=blade,php,css,html"
     />
     <img
       alt="github stats"
