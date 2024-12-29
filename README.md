@@ -37,22 +37,22 @@
   <h1>🔥Stats</h1>
   
   <div align="left"> 
-    <img
+<!--     <img
       alt="Top Langs"
       height="170px"
       src="https://github-readme-stats-ten-lilac-82.vercel.app/api/top-langs/?username=masa0902dev&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true&size_weight=0.6&count_weight=0.4&title_color=FFD100&text_color=73D0FF&border_radius=6&exclude_repo=ec-costco-resale,a-team-dev,ulucus,laravel-vercel-mysql-test&hide=blade,php,css,html"
-    />
+    /> -->
     <img
       alt="github stats"
       height="170px"
       src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=ayu-mirage&show_icons=true&count_private=true&title_color=FFD100&text_color=73D0FF&icon_color=FFD100&border_radius=6"
     />
-    <a href="https://git.io/streak-stats">
+<!--     <a href="https://git.io/streak-stats">
       <img
         height="170px"
         src="https://github-readme-streak-stats-rouge-one.vercel.app?user=masa0902dev&theme=ayu-mirage&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="GitHub Streak"
       />
-    </a>
+    </a> -->
     <!-- size_weight:byte count, count_weight:レポジトリが持つ割合 -->
     <!-- 除外→css:scssある, blade:phpある -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
@@ -65,7 +65,8 @@
   </div>
   <div>
     <a href="https://wakatime.com/@masa0902dev">
-      <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact" />
+      <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(Top%2016%20Langs)" />
+<!--       %20はURLにおいて半角スペースを表す -->
     </a>
   </div>
   <div>
