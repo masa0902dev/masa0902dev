@@ -64,13 +64,13 @@
     </div> -->
   </div>
   <div>
-    <a href="https://wakatime.com/@masa0902dev">
-      <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(Top%2016%20Langs)" />
-<!--       %20はURLにおいて半角スペースを表す -->
-    </a>
-  </div>
-  <div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+  </div>
+  <div>
+    <a href="https://wakatime.com/@masa0902dev">
+      <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(Top%2016%20Langs)" />
+<!--       %20はURLにおいて半角スペースを表す -->
+    </a>
   </div>
 </section>
