@@ -18,5 +18,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          UPDATED_DATE_FORMAT: "%m/%d,%Y %H:%M"
           
           
