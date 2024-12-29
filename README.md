@@ -64,34 +64,12 @@
     </div> -->
   </div>
   <div>
-    <a href="https://wakatime.com/@018ecce8-e566-41cc-b7aa-863eab64d714">
-      <img src="https://wakatime.com/badge/user/018ecce8-e566-41cc-b7aa-863eab64d714.svg" alt="Total codint time since April 11 2024" />
-    </a>
-    (since April 11 2024)<br>
     <a href="https://wakatime.com/@masa0902dev">
       <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact" />
     </a>
   </div>
   <div>
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
   </div>
-</section>
-
-
-
-<section>
-  <br>
-  <ul>
-    <li>college student in Japan</li>
-    <li>software engineer, Web BE (+FE)</li>
-    <li>Contact → masa0902dev@gmail.com</li>
-  </ul>
-  <br>
-</section>
-
-
-<section>
-
 </section>
