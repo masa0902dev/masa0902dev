@@ -44,15 +44,16 @@
     /> -->
     <img
       alt="github stats"
-      height="170px"
-      src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=ayu-mirage&show_icons=true&count_private=true&title_color=FFD100&text_color=73D0FF&icon_color=FFD100&border_radius=6"
+      height="140px"
+      src="https://github-readme-stats-ten-lilac-82.vercel.app/api?username=masa0902dev&theme=ayu-mirage&show_icons=true&count_private=true&title_color=FFD100&text_color=73D0FF&text_bold=true&icon_color=FFD100&border_radius=6&hide=contribs"
     />
-<!--     <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats">
       <img
-        height="170px"
-        src="https://github-readme-streak-stats-rouge-one.vercel.app?user=masa0902dev&theme=ayu-mirage&date_format=n%2Fj%5B%2FY%5D&card_height=170" alt="GitHub Streak"
+        alt="GitHub Streak"
+        height="140px"
+        src="https://github-readme-streak-stats-rouge-one.vercel.app?user=masa0902dev&theme=ayu-mirage&date_format=n%2Fj%5B%2FY%5D&card_height=170&text_bold=true"
       />
-    </a> -->
+    </a>
     <!-- size_weight:byte count, count_weight:レポジトリが持つ割合 -->
     <!-- 除外→css:scssある, blade:phpある -->
     <!-- exclude_repo:特定のレポジトリを排除 -->
@@ -67,6 +68,7 @@
     <br>
     <p>History since April 11, 2024...</p>
 <!--START_SECTION:waka-->
+    
 ![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.8%20million%20lines%20of%20code-blue)
