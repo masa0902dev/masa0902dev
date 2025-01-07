@@ -68,7 +68,7 @@
     <br>
     <p>History since April 11, 2024...</p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20million%20lines%20of%20code-blue)
 
@@ -76,7 +76,7 @@
 
 > 📦 90.3 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
+> 🏆 40 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,40 +84,8 @@
  > 
 > 🔑 41 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
 
-```text
-Monday                   2689 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Tuesday                  2967 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Wednesday                537 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Thursday                 2020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Friday                   1685 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Saturday                 897 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Sunday                   909 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               24 hrs 32 mins      ██████████████████░░░░░░░   73.64 % 
-JSON                     4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-SCSS                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-
-🔥 Editors: 
-Cursor                   33 hrs 19 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      33 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/06,2025 17:18 UTC
+ Last Updated on 01/07,2025 17:18 UTC
 <!--END_SECTION:waka-->
   </div>
   <div>
