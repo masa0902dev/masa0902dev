@@ -4,7 +4,7 @@
   <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Tech Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">Twitter(X)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
   <br><br>
   <section>
-    <span>SWE (Web BackEnd + FrontEnd), college student in Japan</span>
+    <span>SWE (Fullstack Web Engineer), college student in Japan</span>
     <div>contact: <code>masa0902dev@gmail.com</code></div>
   </section>
 </section>
@@ -16,7 +16,7 @@
   <div>
     <p>BackEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs are Golang, Typescript, NodeJS, Python, Laravel, MySQL PostgreSQL, and Firebase" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,ts,nodejs,py,laravel,mysql,postgresql,firebase">
+      <img alt="backend-techs are Golang, NodeJS, TypeScript, Python, MySQL PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,nodejs,ts,py,mysql,postgresql">
     </a>  
     <p>FrontEnd</p>
     <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
     </a>
     <p>Others</p>
     <a href="https://skillicons.dev">
-      <img alt="other-techs are OpenSearch, Github Actions, GitHub, Git, GraphQL, Postman, Vercel, VScode, and Notion" src="https://skillicons.dev/icons?theme=light&perline=9&i=elasticsearch,githubactions,github,git,graphql,postman,vercel,vscode,notion">
+      <img alt="other-techs are Firebase, Github Actions, GitHub, Git, OpenSearch, Postman, Vercel, VScode, and Notion" src="https://skillicons.dev/icons?theme=light&perline=9&i=firebase,githubactions,github,git,elasticsearch,postman,vercel,vscode,notion">
     </a>
   </div>
   <br>
