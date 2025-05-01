@@ -1,12 +1,28 @@
 <h2>👋こんにちは、私はmasaです</h2>
 
 <section>
-  <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion Tech Blog</a> &nbsp;/&nbsp; <a href="https://x.com/masa0902dev">Twitter(X)</a> &nbsp;/&nbsp; <a href="https://qiita.com/masa0902dev">Qiita</a>
-  <br><br>
   <section>
-    <span>SWE (Fullstack Web Engineer), college student in Japan</span>
-    <div>contact: <code>masa0902dev@gmail.com</code></div>
+    <div>doing: 
+    <ul>
+      <li>Researching the field of <b>Computational Statistic Physics</b></li>
+      <li>College student in Japan</li>
+      <li>SWE (Fullstack Web Engineer)</li>
+    </ul>
+    </div>
+    <div>contact: 
+      <ul>
+        <li>research → <code>masa0902research@gmail.com</code></li>
+        <li>engineer → <code>masa0902dev@gmail.com</code></li>
+      </ul>
+    </div>
   </section>
+  <div>links:
+    <ul>
+      <li><a href="https://zenn.dev/masa0902dev">
+  Zenn</a> / <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion</a> / <a href="https://x.com/masa0902dev">Twitter(X)</a>
+      </li>
+    </ul>
+  </div>
 </section>
 
 
