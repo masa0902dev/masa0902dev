@@ -4,7 +4,7 @@
   <section>
     <div>doing: 
     <ul>
-      <li>Researching the field of <b>Computational Statistic Physics</b></li>
+      <li>Researching the field of <b>Computational Statistical Physics</b></li>
       <li>College student in Japan</li>
       <li>SWE (Fullstack Web Engineer)</li>
     </ul>
