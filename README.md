@@ -84,56 +84,22 @@
     <br>
     <p>History since April 11, 2024...</p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 153.2 kB Used in GitHub's Storage 
+> 📦 158.6 kB Used in GitHub's Storage 
  > 
-> 🏆 876 Contributions in the Year 2025
+> 🏆 883 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 50 Private Repositories 
+> 🔑 52 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
 
-```text
-Monday                   3633 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Tuesday                  4189 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Wednesday                1528 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Thursday                 2981 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   2935 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Saturday                 1663 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Sunday                   1746 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Markdown                 3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-Go                       1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-
-🔥 Editors: 
-Cursor                   8 hrs 51 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/30,2025 17:21 UTC
+ Last Updated on 05/02,2025 17:21 UTC
 <!--END_SECTION:waka-->
   </div>
   <div>
