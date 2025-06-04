@@ -5,14 +5,14 @@
     <div>doing: 
     <ul>
       <li>Researching the field of <b>Computational Statistical Physics</b></li>
-      <li>College student in Japan</li>
-      <li>SWE (Fullstack Web Engineer)</li>
+      <li>undergraduate student in Japan</li>
+      <li>SWE (web full-stack)</li>
     </ul>
     </div>
     <div>contact: 
       <ul>
         <li>research → <code>masa0902research@gmail.com</code></li>
-        <li>engineer → <code>masa0902dev@gmail.com</code></li>
+        <li>engineering → <code>masa0902dev@gmail.com</code></li>
       </ul>
     </div>
   </section>
