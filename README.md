@@ -4,17 +4,22 @@
   <section>
     <div>doing: 
     <ul>
-      <li>Researching the field of <b>Computational Statistical Physics</b></li>
+      <li>researching the field of <b>Computational Statistical Physics</b></li>
       <li>undergraduate student in Japan</li>
-      <li>SWE (web full-stack)</li>
+      <li>swe (web full-stack)</li>
     </ul>
     </div>
-    <div>contact: <code>masa0902res@gmail.com</code></div>
+    <div>contact:
+      <ul>
+        <li><code>masa0902res@gmail.com</code></li>
+      </ul>
+      </div>
   </section>
   <div>links:
     <ul>
       <li><a href="https://zenn.dev/masa0902dev">
-  Zenn</a> / <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion</a> / <a href="https://x.com/masa0902dev">Twitter(X)</a>
+  Zenn</a> / <a href="https://masa0902dev.notion.site/Tech-Blog-MASA-0f225d11627944d692699daf0686cd9e">Notion</a>
+<!--         <a href="https://x.com/masa0902dev">Twitter(X)</a> -->
       </li>
     </ul>
   </div>
@@ -75,10 +80,10 @@
       <img height='384' alt="Atcoder profile" src="https://atcoder-readme-stats.vercel.app/stats/masa0902dev?show_history=4" />
     </div> -->
   </div>
-  <div>
+
+<!--  <div>
     <br>
     <p>History since April 11, 2024...</p>
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.0%20million%20lines%20of%20code-blue)
@@ -129,12 +134,11 @@ Mac                      34 hrs 58 mins      ███████████�
 
 
  Last Updated on 06/13,2025 17:22 UTC
-<!--END_SECTION:waka-->
   </div>
   <div>
     <a href="https://wakatime.com/@masa0902dev">
       <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=@masa0902dev&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(Top%2016%20Langs)" />
-<!--       %20はURLにおいて半角スペースを表す -->
     </a>
   </div>
+-->
 </section>
