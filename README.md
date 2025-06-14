@@ -9,12 +9,7 @@
       <li>SWE (web full-stack)</li>
     </ul>
     </div>
-    <div>contact: 
-      <ul>
-        <li>research → <code>masa0902research@gmail.com</code></li>
-        <li>engineering → <code>masa0902dev@gmail.com</code></li>
-      </ul>
-    </div>
+    <div>contact: <code>masa0902res@gmail.com</code></div>
   </section>
   <div>links:
     <ul>
@@ -32,7 +27,7 @@
   <div>
     <p>BackEnd</p>
     <a href="https://skillicons.dev">
-      <img alt="backend-techs are Golang, NodeJS, TypeScript, Python, MySQL PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=go,nodejs,ts,py,mysql,postgresql">
+      <img alt="backend-techs are C++, Python, Golang, NodeJS, TypeScript, MySQL PostgreSQL" src="https://skillicons.dev/icons?theme=light&perline=9&i=cpp,py,go,nodejs,ts,mysql,postgresql">
     </a>  
     <p>FrontEnd</p>
     <a href="https://skillicons.dev">
