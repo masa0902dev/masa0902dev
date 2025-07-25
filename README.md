@@ -1,10 +1,9 @@
-<h2>👋こんにちは、私はmasaです</h2>
+<h2>M. Miwa 👋 fun!</h2>
 
 <section>
   <section>
-    <div>doing: 
     <ul>
-      <li>Researching the field of <b>Computational Statistical Physics</b></li>
+      <li><b>Researching the field of Computational Statistical Physics.</b></li>
       <li>undergraduate student in Japan</li>
       <li>ex-swe (particularly web full-stack)</li>
     </ul>
