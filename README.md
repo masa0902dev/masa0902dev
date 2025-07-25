@@ -6,7 +6,7 @@
     <ul>
       <li>researching the field of <b>Computational Statistical Physics</b></li>
       <li>undergraduate student in Japan</li>
-      <li>swe (web full-stack)</li>
+      <li>ex-swe (particularly web full-stack)</li>
     </ul>
     </div>
     <div>contact:
