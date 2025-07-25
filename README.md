@@ -4,7 +4,7 @@
   <section>
     <div>doing: 
     <ul>
-      <li>researching the field of <b>Computational Statistical Physics</b></li>
+      <li>Researching the field of <b>Computational Statistical Physics</b></li>
       <li>undergraduate student in Japan</li>
       <li>ex-swe (particularly web full-stack)</li>
     </ul>
