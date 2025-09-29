@@ -17,6 +17,6 @@
     <li>Faster algorithm: thread and process parallelized NEC (Newtonian Event Chain Monte Carlo)</li>
   </ul>
   <div>
-    <img width="653" height="210" alt="スクリーンショット 2025-09-29 11 27 48" src="https://github.com/user-attachments/assets/46d1eeb2-1f02-4ac8-a4a2-583b4eae5167" />
+    <img width="654" height="168" alt="スクリーンショット 2025-09-29 11 32 20" src="https://github.com/user-attachments/assets/f6003178-7fe1-473c-9c32-9066138a3a8d" />
   </div>
 </section>
