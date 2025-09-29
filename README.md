@@ -4,6 +4,8 @@
   <ul>
     <li>🧪 Researching the field of Computatiional Statistical Physics</li>
     <li>🎓 A bachelor’s student at the Isobe-Lab, NITech (Nagoya Institute of Technology)</li>
+    <li><a href="https://github.com/masa0902dev/">[Blog] GithubPages 🚧WIP</a></li>
+    <li>[Email]<code>miwa0902res@gmail.com</code></li>
   </ul>
 </section>
 
