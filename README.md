@@ -3,7 +3,7 @@
   <ul>
     <li>🧪 Researching the field of Computatiional Statistical Physics</li>
     <li>🎓 A bachelor’s student at the Isobe-Lab, Nagoya Institute of Technology, in Japan</li>
-    <li><a href="https://github.com/masa0902dev/">[Blog] GithubPages 🚧WIP</a></li>
+    <li><a href="https://masa0902dev.github.io/miwa-research-blog/">[Blog] GithubPages 🚧WIP</a></li>
     <li>[Email]<code>miwa0902res@gmail.com</code></li>
   </ul>
 </section>
