@@ -27,9 +27,10 @@
   <h2>Research Activities</h2>
   <ul>
     <li>2026/08: Participated in the <a href="https://cmpss.jp/ss2026/">Condensed Matter Physics Summer School 2026</a> in Kumamoto</li>
-    <li>2026/08: Presented a poster at the <a href="https://ccp2026.kr/">CCP2026 (XXXVII IUPAP Conference on Computational Physics)</a> in Seoul, Korea</li>
+    <li>2026/08: Presented a poster at the <a href="https://ccp2026.kr/"><b>CCP2026</b> (XXXVII <b>IUPAP</b> Conference on Computational Physics)</a> in Seoul, Korea</li>
       <ul>
         <li>🥇 Best Poster Award</li>
+        <li>CCP: The world's largest international conference on computational physics, organized by IUPAP</li>
         <li>🌐 (press release from my college will be published soon…)</li>
         <li>🌐 (awardee page of the conference will be published soom…)</li>
       </ul>
