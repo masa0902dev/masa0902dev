@@ -13,8 +13,8 @@
     <i><b>My current research focus is roughly as follows:</b></i>
   </p>
   <ul>
-    <li>The long time tail problem, divergence of the transport coefficient $D$ and vortex flow in two dimensions with hard sphere system</li>
-    <li>Faster algorithm, thread and process parallelized NEC (Newtonian Event Chain Monte Carlo)</li>
+    <li>Long-Time Tails and Vortex Pair Flow in Newtonian Event-Chain Monte Carlo (NEC) for Two-Dimensional Hard Disk Systems</li>
+    <li>developing faster event-driven algorithm, thread and process parallelized NEC</li>
   </ul>
   <div>
     <img width="654" height="168" alt="スクリーンショット 2025-09-29 11 32 20" src="https://github.com/user-attachments/assets/f6003178-7fe1-473c-9c32-9066138a3a8d" />
