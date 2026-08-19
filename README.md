@@ -1,7 +1,7 @@
 <section>
   <h1>[M. Miwa] researching physics</h1>
   <ul>
-    <li>🧪 Researching the field of Computatiional Statistical Physics</li>
+    <li>🧪 Researching the field of Computational Statistical Physics</li>
     <li>🎓 A master’s student at the <a href="https://csp.web.nitech.ac.jp/">Isobe-Lab</a>, Nagoya Institute of Technology, in Japan</li>
     <!-- <li>[Blog] <a href="https://masa0902dev.github.io/miwa-research-blog/">GithubPages 🚧WIP</a></li> -->
     <li>📩 Email: <code>miwa0902res@gmail.com</code></li>
