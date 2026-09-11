@@ -22,8 +22,7 @@
 - 2026/08: Presented a poster at the [**CCP2026** (XXXVII **IUPAP** Conference on Computational Physics)](https://ccp2026.kr/) in Seoul, Korea
     - **🥇 Best Poster Award**
     - **CCP: The world's largest international conference on computational physics, organized by IUPAP**
-    - 🌐 (press release from my college will be published soon…)
-    - 🌐 (awardee page of the conference will be published soon…)
+    - 🌐 [press release from my college](https://www.nitech.ac.jp/campus/news/14233.html)
 
 - 2026/03: Participated in the [Spring School on Computational Physics 2026](https://compphysschool.github.io/2026/) in Okinawa
 
