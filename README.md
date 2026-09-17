@@ -7,8 +7,9 @@
 
 ***My current research focus is roughly as follows:***
 
-- Long-Time Tails of VACF and Vortex Pair Flow in Newtonian Event-Chain Monte Carlo (NEC) for Two-Dimensional Hard Disk Systems
-- developing faster event-driven algorithm, thread and process parallelized NEC
+- Long-Time Tails of VACF and Vortex Pair Flow in NEC (Newtonian Event-Chain Monte Carlo) for Two-Dimensional Hard Disk Systems
+- Hydrodynamics from a Particle-Level perspective
+- developing faster Event-Driven algorithms and efficient Multi-Threaded algorithms
 
 <img width="654" height="168" alt="スクリーンショット 2025-09-29 11 32 20" src="https://github.com/user-attachments/assets/f6003178-7fe1-473c-9c32-9066138a3a8d" />
 
