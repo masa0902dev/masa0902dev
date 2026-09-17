@@ -20,24 +20,26 @@
 
 ## Research Activities
 
-- 2026/09: Gave an oral presentation at the [JPS2026 Annual Meeting (Physical Society of Japan)](https://www.jps.or.jp/activities/meetings/annual/annual-index.php) in Tokyo
+### 2026
+- Gave an oral presentation at the [JPS2026 Annual Meeting (Physical Society of Japan)](https://www.jps.or.jp/activities/meetings/annual/annual-index.php) in Tokyo (15aM1321-6)
 
-- 2026/08: Participated in the [Condensed Matter Physics Summer School 2026](https://cmpss.jp/ss2026/) in Kumamoto
+- Participated in the [Condensed Matter Physics Summer School 2026](https://cmpss.jp/ss2026/) in Kumamoto
 
-- 2026/08: Gave a poster presentation at the [**CCP2026** (XXXVII **IUPAP** Conference on Computational Physics)](https://ccp2026.kr/) in Seoul
+- Gave a poster presentation at the [**CCP2026** (XXXVII **IUPAP** Conference on Computational Physics)](https://ccp2026.kr/) in Seoul (P-T01-0107)
     - **🥇 Best Poster Award**
     - **CCP…The world's largest international conference on computational physics, organized by IUPAP**
     - 🌐 [Press Release from my college](https://www.nitech.ac.jp/campus/news/14233.html)
 
-- 2026/03: Participated in the [Spring School on Computational Physics 2026](https://compphysschool.github.io/2026/) in Okinawa
+- Participated in the [Spring School on Computational Physics 2026](https://compphysschool.github.io/2026/) in Okinawa
 
-- 2025/11: Gave a poster presentation at the [Soft Matter Research Meeting 2025](https://softmatter.xsrv.jp/) in Kyoto
+### 2025
+- Gave a poster presentation at the [Soft Matter Research Meeting 2025](https://softmatter.xsrv.jp/) in Kyoto (P2-28)
 
-- 2025/09: Conducted research at [Discrete Event Simulation Research Team](https://www.r-ccs.riken.jp/research/labs/desrt/), [RIKEN](https://www.r-ccs.riken.jp/outreach/schools/20250723-20251225/)
+- Conducted research at [Discrete Event Simulation Research Team](https://www.r-ccs.riken.jp/research/labs/desrt/), [RIKEN](https://www.r-ccs.riken.jp/outreach/schools/20250723-20251225/)
 
-- 2025/08: Participated in the [KOBE HPC Summer School 2025](http://www.eccse.kobe-u.ac.jp/simulation_school/kobe-hpc-summer-basic-2025/)
+- Participated in the [KOBE HPC Summer School 2025](http://www.eccse.kobe-u.ac.jp/simulation_school/kobe-hpc-summer-basic-2025/)
 
-- 2025: Joined [Isobe-Lab](https://csp.web.nitech.ac.jp/) in Nagoya Institute of Technology
+- Joined [Isobe-Lab](https://csp.web.nitech.ac.jp/) in Nagoya Institute of Technology
 
 <br />
 
