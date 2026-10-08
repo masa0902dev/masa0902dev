@@ -1,8 +1,8 @@
 # [M. Miwa] Researching Physics
 
 - 🧪 Researching the field of …
-    -  Computational Statistical Physics
     -  Non-Equilibrium Statistical Physics
+    -  Computational Statistical Physics
 - 🎓 A Master’s Student at the [Isobe-Lab](https://csp.web.nitech.ac.jp/) (Nagoya Institute of Technology) in Japan
 - 📩 Email: `miwa0902res@gmail.com`
 <!-- - [Blog] [Github Pages 🚧WIP](https://masa0902dev.github.io/miwa-research-blog/) -->
