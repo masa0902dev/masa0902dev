@@ -7,11 +7,12 @@
 - 📩 Email: `miwa0902res@gmail.com`
 <!-- - [Blog] [Github Pages 🚧WIP](https://masa0902dev.github.io/miwa-research-blog/) -->
 
-***My current research focus is roughly as follows:***
+***My current research focuses are roughly as follows:***
 
-- Long-Time Tails of VACF and Vortex Pair Flow in NEC (Newtonian Event-Chain Monte Carlo) for Two-Dimensional Hard Disk Systems
-- Hydrodynamics from a Particle-Level perspective
-- developing faster Event-Driven algorithms and efficient Multi-Threaded algorithms
+- Long-Time Tails of VACF (Velocity Auto-Correlation Function) and Vortex Pair Flow in NEC (Newtonian Event-Chain Monte Carlo) for Two-Dimensional Systems
+- Hydrodynamics from a Particle-Level Perspective
+- Extracting Dynamical Properties from Monte Carlo Methods
+- Faster Event-Driven Algorithms and Efficient Multi-Threaded Algorithms
 
 <img width="654" height="168" alt="スクリーンショット 2025-09-29 11 32 20" src="https://github.com/user-attachments/assets/f6003178-7fe1-473c-9c32-9066138a3a8d" />
 
@@ -61,8 +62,8 @@
 - Developed the website "Symposium for NOREMIA Project (sorry, but we can't publish yet)" in Isobe Lab
 
 - Public Softwares:
-    - github
-    - zenn
+    - [Github]() : developing several tools github
+    - [Zenn]() : writing tech-articles in zenn
 
 - Developed the [web service "Prediction of the Number of Heat-Related Patients (熱中症搬送者数予測サイト)"](https://heatstroke.jp/) in [HIRATA LAB](https://cem.web.nitech.ac.jp/hilab/)
 
