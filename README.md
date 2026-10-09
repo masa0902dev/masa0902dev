@@ -43,7 +43,7 @@
 - Joined [Isobe-Lab](https://csp.web.nitech.ac.jp/) in Nagoya Institute of Technology
 
 <br />
-
+<br />
 
 ## Research Interests
 
@@ -58,6 +58,7 @@
 
 etc…
 
+<br />
 
 ## Other Activities related to Academics
 
