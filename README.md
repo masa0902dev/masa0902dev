@@ -59,14 +59,15 @@
 etc…
 
 
-## Other Activities related with Academics
+## Other Activities related to Academics
 
-- Developed the website "Symposium for NOREMIA Project (sorry, but we can't publish yet)" in Isobe Lab
+- Developed the website Symposium for NOREMIA Project (not yet public)
+    - [NOREMIA Project](https://tokyo.office.cnrs.fr/research/noremia/): Non-Reversible Markov chains, Implementations and Applications
 
-- Public Softwares:
-    - [Github]() : developing several tools github
-    - [Zenn]() : writing tech-articles in zenn
+- Writing & Code:
+    - [Zenn](https://zenn.dev/masa0902dev): technical articles in English and Japanese
+    - [GitHub](https://github.com/masa0902dev?tab=repositories): tools I developed for personal use and I published
 
-- Developed the [web service "Prediction of the Number of Heat-Related Patients (熱中症搬送者数予測サイト)"](https://heatstroke.jp/) in [HIRATA LAB](https://cem.web.nitech.ac.jp/hilab/)
+- Developed the web service [Prediction of the Number of Heat-Related Patients (熱中症搬送者数予測サイト)"](https://heatstroke.jp/) in [HIRATA LAB](https://cem.web.nitech.ac.jp/hilab/)
 
-- Developed the [website "Reina Miyagawa Lab"](https://miyagawa-lab.vercel.app/ja)
+- Developed the website [Reina Miyagawa Lab](https://miyagawa-lab.vercel.app)
