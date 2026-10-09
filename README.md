@@ -1,4 +1,4 @@
-    # [M. Miwa] Researching Physics
+# [M. Miwa] Researching Physics
 
 - 🧪 Researching the field of …
     -  Non-Equilibrium Statistical Physics
