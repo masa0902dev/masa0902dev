@@ -46,16 +46,14 @@
 
 ## Research Interests
 
-- LTT: Long-Time Tails phenomena
-    - simulation
-    - kinetic theory, mode-coupling theory
-- Glass
-- Non-Equilibrium Statistical Physics
+- fluid dynamics
+- glass dynamics and relaxation
 
+- monte carlo
 - ECMC: Event-Chain Monte Carlo
 
-- Algorithmic Improvement
-- Highly Scalable Thread and Process Parallelization
+- algorithmic improvement
+- highly scalable thread and process parallelization
 
 
 ## Other Activities related with Academics
