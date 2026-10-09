@@ -1,4 +1,4 @@
-# [M. Miwa] Researching Physics
+    # [M. Miwa] Researching Physics
 
 - 🧪 Researching the field of …
     -  Non-Equilibrium Statistical Physics
@@ -57,3 +57,15 @@
 - Algorithmic Improvement
 - Highly Scalable Thread and Process Parallelization
 
+
+## Other Activities related with Academics
+
+- Developed the website "Symposium for NOREMIA Project (sorry, but we can't publish yet)" in Isobe Lab
+
+- Public Softwares:
+    - github
+    - zenn
+
+- Developed the [web service "Prediction of the Number of Heat-Related Patients (熱中症搬送者数予測サイト)"](https://heatstroke.jp/) in [HIRATA LAB](https://cem.web.nitech.ac.jp/hilab/)
+
+- Developed the [website "Reina Miyagawa Lab"](https://miyagawa-lab.vercel.app/ja)
