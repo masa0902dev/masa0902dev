@@ -56,6 +56,8 @@
 - algorithmic improvement
 - highly scalable thread and process parallelization
 
+etc…
+
 
 ## Other Activities related with Academics
 
